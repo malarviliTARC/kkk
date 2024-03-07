@@ -14,6 +14,7 @@ public class Javaapp {
     public static void main(String[] args) {
         System.out.println("SSSSSSSSS");
         System.out.println("ffff");
+        System.out.println("gggg");
     }
     
 }
