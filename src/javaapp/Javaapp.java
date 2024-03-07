@@ -15,6 +15,7 @@ public class Javaapp {
         System.out.println("SSSSSSSSS");
         System.out.println("ffff");
         System.out.println("gggg");
+        System.out.println("fff");
     }
     
 }
